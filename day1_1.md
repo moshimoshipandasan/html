@@ -12,6 +12,8 @@
    - 1991年: 最初の公開HTMLバージョン
 2. ワールドワイドウェブとHTMLの関係
 3. 最初のウェブブラウザ（WorldWideWeb、後にNexus）
+4. ティム・バーナーズリーの画像
+   - ![ティム・バーナーズリー](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/800px-Sir_Tim_Berners-Lee_%28cropped%29.jpg)
 
 ## HTMLの進化
 
